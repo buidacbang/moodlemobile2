@@ -90,8 +90,6 @@
         <splash height="960" src="resources/ios/splash/Default@2x~iphone.png" width="640" />
         <splash height="480" src="resources/ios/splash/Default~iphone.png" width="320" />
     </platform>
-    <engine name="android" spec="6.1.2" />
-    <engine name="ios" spec="4.3.1" />
     <plugin name="cordova-plugin-file" spec="4.3.3" />
     <plugin name="cordova-plugin-file-transfer" spec="1.6.3" />
     <plugin name="cordova-plugin-camera" spec="2.4.1">
@@ -124,4 +122,6 @@
     <plugin name="cordova-sqlite-storage" spec="2.0.4" />
     <plugin name="cordova-plugin-file-opener2" spec="~2.0.19" />
     <plugin name="com-darryncampbell-cordova-plugin-intent" spec="~1.0.2" />
+    <engine name="android" spec="^6.1.2" />
+    <engine name="ios" spec="4.3.1" />
 </widget>
