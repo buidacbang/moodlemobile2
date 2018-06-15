@@ -1,6 +1,6 @@
 {
-  "name": "moodlemobile2",
-  "app_id": "",
+  "name": "AIT Learning",
+  "app_id": "com.viettel.VTTLearning",
   "watchPatterns": [
     "www/**/*.html",
     "www/build/**/*",
